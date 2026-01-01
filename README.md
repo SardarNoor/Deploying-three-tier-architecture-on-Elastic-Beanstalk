@@ -85,7 +85,3 @@ It highlights automation, scalability, and monitoring while following cloud best
 
 **Sardar Noor Ul Hassan**
 DevOps / Cloud Engineer
-
-```
-
-
